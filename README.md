@@ -21,4 +21,4 @@ If any input is invalid, error messages will be shown to guide the user on how t
 
 ## Test Cases
 Case 1: Tooltip is shown when hovering over the question mark icons
-
+![image](https://github.com/SheWe786/Tax-calculator/assets/116451611/122749db-be54-4310-bd55-130975248696)
