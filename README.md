@@ -34,5 +34,13 @@ Error icons will appear if a negative value is entered in the Number fields. The
 
 ![image](https://github.com/SheWe786/Tax-calculator/assets/116451611/7aad3baa-4310-43bf-b3a9-4ca6913aaa55)
 
+## Case 4: 
+If Gross Income + Extra Income - Total Deductions is ≤ 8 lakhs then no income tax is applicable. So overall income will be Gross Income + Extra Income.
+
+![image](https://github.com/SheWe786/Tax-calculator/assets/116451611/0d4104ed-eb58-4d0e-b79b-f35299a9124c)
+
+
+
+
 
 
