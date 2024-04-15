@@ -23,3 +23,8 @@ If any input is invalid, error messages will be shown to guide the user on how t
 Case 1: Tooltip is shown when hovering over the question mark icons.
 
 ![image](https://github.com/SheWe786/Tax-calculator/assets/116451611/122749db-be54-4310-bd55-130975248696)
+
+## Case 2: 
+Display error icons if the user clicks the submit button without entering input. The error message states "This input field is mandatory" and it will highlight in red color.
+![image](https://github.com/SheWe786/Tax-calculator/assets/116451611/5691b743-7983-45cd-bf55-a30d48bc1c29)
+
