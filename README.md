@@ -29,3 +29,9 @@ Display error icons if the user clicks the submit button without entering input.
 
 ![image](https://github.com/SheWe786/Tax-calculator/assets/116451611/5691b743-7983-45cd-bf55-a30d48bc1c29)
 
+## Case 3: 
+Error icons will appear if a negative value is entered in the Number fields. These fields only accept 0 or positive numbers. An error message states "Please enter non-negative numbers only".
+![image](https://github.com/SheWe786/Tax-calculator/assets/116451611/7aad3baa-4310-43bf-b3a9-4ca6913aaa55)
+
+
+
